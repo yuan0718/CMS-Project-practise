@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "612dc4038108f0c138b27e1b"
+  },
+  "name": "test",
+  "email": "test@gmail.com",
+  "password": "$2b$10$RvMRL/xQFFoV6R2iegLtEuYwquNfBVhxE8zbePjmUXhTL3gyQ7sTO",
+  "avatar": "//www.gravatar.com/avatar/1aedb8d9dc4751e229a335e371db8058?s=200&r=g&d=mm",
+  "identity": "manager",
+  "date": {
+    "$date": "2021-08-31T05:54:11.165Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612dc4838108f0c138b27e1e"
+  },
+  "name": "test123",
+  "email": "test123@gmail.com",
+  "password": "$2b$10$fqUWSDHx2DaRnYWm1mBGjuhlld5r63FNCmA9qlDadQmuQK3St38nS",
+  "avatar": "//www.gravatar.com/avatar/9a93efa79aa9f5d35e14bc55a3e16dc4?s=200&r=g&d=mm",
+  "identity": "employee",
+  "date": {
+    "$date": "2021-08-31T05:56:19.399Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612dc9cdb95e0fe7fe994c4f"
+  },
+  "name": "test123456",
+  "email": "test123456@gmail.com",
+  "password": "$2b$10$R2nfudCmGgOorQ2ieZ5rku6vlLiUubE8W3WJqOC/5wU5URhS0M0Fa",
+  "avatar": "//www.gravatar.com/avatar/1040c2c51e224bf7dc8cdd1bbdede236?s=200&r=g&d=mm",
+  "identity": "employee",
+  "date": {
+    "$date": "2021-08-31T06:18:53.684Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "612dc9f8b95e0fe7fe994c52"
+  },
+  "name": "test1234567",
+  "email": "test1234567@gmail.com",
+  "password": "$2b$10$J65u4xdAg.Tzy2pL3/DyMuefI3TVFl1R12TQYDCR7RdQFaF2IYGG.",
+  "avatar": "//www.gravatar.com/avatar/594d9370a0af806fbc59b40bef72a0a5?s=200&r=g&d=mm",
+  "identity": "employee",
+  "date": {
+    "$date": "2021-08-31T06:19:36.902Z"
+  },
+  "__v": 0
+}]
